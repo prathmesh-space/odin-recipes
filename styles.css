@@ -1,0 +1,36 @@
+.title{
+    color:rgb(255, 221, 128);
+    text-align: center;
+    font-family:Helvetica;
+    font-size: 100px;
+    
+}
+
+
+
+ul{
+    list-style-type: none;
+    padding-left: 100px;
+    margin: 200px;
+    text-align: left;
+    font-family:Helvetica;
+    font-size: 30px;
+    text-decoration: none;
+    color:rgb(239, 230, 208);
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+#1{
+    color:rgb(255, 255, 255);
+    a:hover{
+        text-decoration: underline;
+    }
+}
+
+#2{
+    color:rgb(64, 47, 0);
+}
+body { max-width: 640px; margin: 0 auto; padding: 2rem 1rem; font-family: sans-serif; }
